@@ -8,7 +8,6 @@ venv/
 
 # big raw data we don't want on GitHub
 data/raw/
-data/processed/
 models/df_*.csv
 models/per_user_metrics_*.csv
 models/predictions.csv
