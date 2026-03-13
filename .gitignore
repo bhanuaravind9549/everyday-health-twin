@@ -12,4 +12,3 @@ data/processed/
 models/df_*.csv
 models/per_user_metrics_*.csv
 models/predictions.csv
-*.ipynb
